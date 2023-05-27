@@ -31,7 +31,7 @@ clear
 echo "Checking VPS"
 clear
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/anuy639/sc/main/shadowsocks"
+akbarvpn="raw.githubusercontent.com/zerovpn3/sc/main/shadowsocks"
 
 source /etc/os-release
 OS=$ID
