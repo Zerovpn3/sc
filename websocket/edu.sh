@@ -31,7 +31,7 @@ clear
 echo "Checking VPS"
 clear
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/anuy639/sc/main/websocket"
+akbarvpn="raw.githubusercontent.com/zerovpn3/sc/main/websocket"
 
 # Getting Proxy Template
 wget -q -O /usr/local/bin/ws-nontls https://${akbarvpn}/websocket.py
