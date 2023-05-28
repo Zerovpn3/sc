@@ -216,6 +216,11 @@ echo -e "\E[44;1;39m          ⇱ INSTALL NYARI GRATISAN PROJECT SELESAI ⇲    
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e ""
 sleep 2
+#autostartup lunch menu
+cd
+echo 'if [[ -n $SSH_CONNECTION ]] ; then' | sudo tee -a ~/.bashrc
+echo '/usr/bin/menu' | sudo tee -a ~/.bashrc
+echo 'fi' | sudo tee -a ~/.bashrc
 echo " Reboot 15 Sec"
 sleep 15
 rm -f setup.sh
