@@ -29,7 +29,7 @@ echo -e "${NC}${LIGHT}Telegram : https;//t.me/r1f4n_112"
 exit 0
 fi
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/Anuy639/sc/main/backup"
+akbarvpn="raw.githubusercontent.com/zerovpn3/sc/main/backup"
 
 curl https://rclone.org/install.sh | bash
 printf "q\n" | rclone config
