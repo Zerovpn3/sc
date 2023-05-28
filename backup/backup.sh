@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/anuybazoelk
+# My Telegram : https://t.me/arnold339
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -20,12 +20,12 @@ echo -e "${NC}${GREEN}Permission Accepted...${NC}"
 else
 echo -e "${NC}${RED}Permission Denied!${NC}";
 echo -e "${NC}${LIGHT}Please Contact Admin!!"
-echo -e "${NC}${LIGHT}Facebook : https://m.facebook.com/Anuybazoelk639"
-echo -e "${NC}${LIGHT}WhatsApp : 085349326511"
-echo -e "${NC}${LIGHT}WhatsApp : 081774970898"
-echo -e "${NC}${LIGHT}Youtube : youtube.com/@nyarigratisan"
-echo -e "${NC}${LIGHT}Telegram : https://t.me/anuybazoelk"
-echo -e "${NC}${LIGHT}Telegram : https;//t.me/r1f4n_112"
+echo -e "${NC}${LIGHT}Facebook : https://m.facebook.com/reyxling"
+echo -e "${NC}${LIGHT}WhatsApp : 081388190802"
+echo -e "${NC}${LIGHT}WhatsApp : 083873209638"
+echo -e "${NC}${LIGHT}Youtube : https://youtube.com/@zeroproxyy"
+echo -e "${NC}${LIGHT}Telegram : https://t.me/arnold339"
+echo -e "${NC}${LIGHT}Telegram : https;//t.me/zerovpn3"
 exit 0
 fi
 clear
@@ -67,7 +67,7 @@ echo -e "================================="
 echo -e "IP VPS        : $IP"
 echo -e "Link Backup   : $link"
 echo -e "================================="
-echo -e "Script By Anuybazoelk & Ridwan"
+echo -e "Script By ARNOLD"
 echo ""
 echo -e "If you want to restore data, please enter the link above"
 echo ""
