@@ -32,7 +32,7 @@ echo "Checking VPS"
 clear
 
 # Download File Ohp
-wget https://github.com/Zerovpn3/sc/raw/main/ohp/ohpserver-linux32.zip
+wget -O ohpserver-linux32.zip https://github.com/Zerovpn3/sc/raw/main/ohp/ohpserver-linux32.zip
 unzip ohpserver-linux32.zip
 chmod +x ohpserver
 cp ohpserver /usr/local/bin/ohpserver
